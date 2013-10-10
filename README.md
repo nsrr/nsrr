@@ -14,14 +14,17 @@ Sleep Terms
 - Satya Sahoo **Team Leader**
 - Michael Rueschman
 
-Sleep Archive
+Sleep Arch
 
 -
 
-Sleep Portal
+Sleep Port
 
 - Remo Mueller **Team Leader**
 - Licong Cui
+- Matt Kim
+- Dan Mobley
+- GQ Zhang
 
 Sleep Tools
 
