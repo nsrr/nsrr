@@ -11,12 +11,20 @@ Enhance clinical and translational work in human sleep medicine and physiology b
 
 Sleep Terms
 
-- Satya Sahoo **Team Leader**
+- Matt Kim **Team Leader**
+- Kevin Gleason
+- Dan Mobley
 - Michael Rueschman
+- Satya Sahoo
 
 Sleep Arch
-
--
+- Michael Rueschman **Team Leader**
+- Madalena Costa
+- Kevin Gleason
+- Ary Goldberger
+- Dan Mobley
+- Naresh P
+- Research Assistants
 
 Sleep Port
 
@@ -28,13 +36,19 @@ Sleep Port
 
 Sleep Tools
 
-- Catherine Jayapandian
+- Dan Mobley **Team Leader**
+- Madalena Costa
 - Dennis Dean
+- Ary Goldberger
+- Catherine Jayapandian
+- Ken Loparo
 
 Regulatory and Community Interface
 
 - Susan Redline **Team Leader**
+- Dan Mobley
 - Susan Surovec
+- BWH Reg.
 
 
 ## License [![Creative Commons License](http://i.creativecommons.org/l/by/3.0/80x15.png)](http://creativecommons.org/licenses/by/3.0/deed.en_US)
