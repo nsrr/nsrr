@@ -23,7 +23,7 @@ Sleep Arch
 - Kevin Gleason
 - Ary Goldberger
 - Dan Mobley
-- Naresh P
+- Naresh Punjabi
 - Research Assistants
 
 Sleep Port
