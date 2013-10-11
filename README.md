@@ -1,7 +1,7 @@
 National Sleep Research Resource
 ================================
 
-Public documentation for the National Sleep Research Resource.
+Public documentation for the National Sleep Research Resource. The private repository is currently available at [github.com/sleepepi/nsrr](https://github.com/sleepepi/nsrr).
 
 ## Goal
 
